@@ -48,7 +48,7 @@ function setup() {
  }
 
 function draw() {
-  background("skyblue");
+  background(0,255,255);
 
   //Making the cars re-apper
   for(i=1;i<carGroup1.length;i++) {
